@@ -1,0 +1,7 @@
+@inproceedings{REPO169,
+    author = "Li, Haotian and Wang, Yong and Wu, Aoyu and Wei, Huan and Qu, Huamin",
+    booktitle = "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems",
+    pages = "1--14",
+    title = "{Structure-aware visualization retrieval}",
+    year = "2022"
+}
